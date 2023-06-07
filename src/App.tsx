@@ -6,7 +6,7 @@ import Images from './components/Images';
 function App() {
 	return (
 		<div className="App">
-			<h1>FirebaseExample</h1>
+			<h1>Firebase</h1>
 			<Auth />
 			<Movies />
 			<Images />
